@@ -35,3 +35,17 @@ out/
 
 ### VS Code ###
 .vscode/
+
+### 환경변수 / 보안 ###
+application-local.yml
+application-prod.yml
+.env
+*.env
+
+### OS ###
+.DS_Store
+Thumbs.db
+
+### 로그 ###
+*.log
+logs/
